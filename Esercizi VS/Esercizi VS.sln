@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContoCorrente", "ContoCorre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S1L4", "S1L4\S1L4.csproj", "{639D0F48-57E7-451F-BFF3-0FC92E7F077E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2L1", "S2L1\S2L1.csproj", "{FBEB202E-ADEC-45E7-BC4F-1983FE78890D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +35,15 @@ Global
 		{639D0F48-57E7-451F-BFF3-0FC92E7F077E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639D0F48-57E7-451F-BFF3-0FC92E7F077E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639D0F48-57E7-451F-BFF3-0FC92E7F077E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEB202E-ADEC-45E7-BC4F-1983FE78890D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEB202E-ADEC-45E7-BC4F-1983FE78890D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEB202E-ADEC-45E7-BC4F-1983FE78890D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEB202E-ADEC-45E7-BC4F-1983FE78890D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CD9F02-39EC-438A-B21A-649D63FD0645}
 	EndGlobalSection
 EndGlobal
